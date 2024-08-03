@@ -1,4 +1,4 @@
-## Leetcode problem solutions - general info
+## Leetcode solutions - general info
 This repository contains my personal solutions for Leetcode problems. 
 
 ## Table of Contents
