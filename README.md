@@ -17,6 +17,7 @@ Below you will find a list of solved problems, grouped by difficulty:
 
 ### Easy
 - [Two Sum (JavaScript version)](/easy/two-sum.js)
+- [30 days of JavaScript](/easy/30-days-of-javascript)
 
 ### Medium
 - To be added
