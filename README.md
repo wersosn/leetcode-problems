@@ -1,5 +1,6 @@
 ## Leetcode solutions - general info
 This repository contains my personal solutions for Leetcode problems. 
+However, in cases where I use a solution or explanation of a problem written by another user, this is indicated in a comment in the file.
 
 ## Table of Contents
 - [Languages used](#languages-used)
@@ -17,10 +18,10 @@ Below you will find a list of solved problems, grouped by difficulty:
 
 ### Easy
 - [Two Sum (JavaScript version)](/easy/two-sum.js)
-- [30 days of JavaScript](/easy/30-days-of-javascript)
+- [30 days of JavaScript - easy](/easy/30-days-of-javascript)
 
 ### Medium
-- To be added
+- [30 days of JavaScript - medium](/medium/30-days-of-js-medium)
 
 ### Hard
 - To be added
