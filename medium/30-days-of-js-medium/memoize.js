@@ -1,5 +1,6 @@
 //Eleventh problem from '30 days of JavaScript':
 //Time complexity: O(n)
+//To solve this problem, I used the explanation of the problem by user vermaamanmr
 function memoize(fn) {
     const cache = {}; //cache object to store results of function calls
     let call = 0; //counter for unique function calls
