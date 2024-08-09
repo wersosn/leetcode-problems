@@ -11,13 +11,14 @@ However, in cases where I use a solution or explanation of a problem written by 
 
 ## Languages used
 - JavaScript
-- To be added
+- C#
 
 ## Problem list
 Below you will find a list of solved problems, grouped by difficulty:
 
 ### Easy
 - [Two Sum (JavaScript version)](/easy/two-sum.js)
+- [Two Sum (C# version)](/easy/two-sum.cs)
 - [30 days of JavaScript - easy](/easy/30-days-of-javascript)
 
 ### Medium
