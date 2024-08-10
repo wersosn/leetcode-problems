@@ -19,9 +19,11 @@ Below you will find a list of solved problems, grouped by difficulty:
 ### Easy
 - [Two Sum (JavaScript version)](/easy/two-sum.js)
 - [Two Sum (C# version)](/easy/two-sum.cs)
+- [Palindrome number (JavaScript version)](/easy/palindrome-number.js)
 - [30 days of JavaScript - easy](/easy/30-days-of-javascript)
 
 ### Medium
+- [Add two numbers (JavaScript version)](/medium/add-two-numbers.js)
 - [30 days of JavaScript - medium](/medium/30-days-of-js-medium)
 
 ### Hard
