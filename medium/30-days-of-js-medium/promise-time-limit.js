@@ -7,7 +7,7 @@ var timeLimit = function(fn, t) {
             let x = fn(...args); //call the original function 
             x.then(
                 function(result) { clearTimeout(timer); resolve(result); }, //if the function completes before the time limit, resolve the promise with the result.
-                function(error) { clearTimeout(timer); reject(error); } //else if the function exceeds the time limit, reject the promis with the error
+                function(error) { clearTimeout(timer); reject(error); } //else if the function exceeds the time limit, reject the promise with the error
             );
         });
         return promise; //return our promise
