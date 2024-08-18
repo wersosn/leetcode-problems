@@ -10,8 +10,11 @@ However, in cases where I use a solution or explanation of a problem written by 
 - [Links](#links)
 
 ## Languages used
+#### Programming languages:
 - JavaScript
 - C#
+
+#### Query languages:
 - SQL
 
 ## Problem list
