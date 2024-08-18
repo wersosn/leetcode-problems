@@ -12,6 +12,7 @@ However, in cases where I use a solution or explanation of a problem written by 
 ## Languages used
 - JavaScript
 - C#
+- SQL
 
 ## Problem list
 Below you will find a list of solved problems, grouped by difficulty:
@@ -20,6 +21,7 @@ Below you will find a list of solved problems, grouped by difficulty:
 - Two Sum [(JavaScript version)](/easy/two-sum.js), [(C# version)](/easy/two-sum.cs)
 - [Palindrome number (JavaScript version)](/easy/palindrome-number.js)
 - [30 days of JavaScript - easy](/easy/30-days-of-javascript)
+- [SQL 50 - easy](/easy/sql-50)
 
 ### Medium
 - [Add two numbers (JavaScript version)](/medium/add-two-numbers.js)
