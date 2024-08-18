@@ -5,7 +5,7 @@ However, in cases where I use a solution or explanation of a problem written by 
 ## Table of Contents
 - [Languages used](#languages-used)
 - [Problem list](#problem-list)
-- [How to use - setup](#how-to-use-setup)
+- [How to use](#how-to-use)
 - [Contributions](#contributions)
 - [Links](#links)
 
@@ -17,8 +17,7 @@ However, in cases where I use a solution or explanation of a problem written by 
 Below you will find a list of solved problems, grouped by difficulty:
 
 ### Easy
-- [Two Sum (JavaScript version)](/easy/two-sum.js)
-- [Two Sum (C# version)](/easy/two-sum.cs)
+- Two Sum [(JavaScript version)](/easy/two-sum.js), [(C# version)](/easy/two-sum.cs)
 - [Palindrome number (JavaScript version)](/easy/palindrome-number.js)
 - [30 days of JavaScript - easy](/easy/30-days-of-javascript)
 
@@ -29,7 +28,7 @@ Below you will find a list of solved problems, grouped by difficulty:
 ### Hard
 - To be added
 
-## How to use - setup
+## How to use
 To run these solutions, clone this repository:
 ```bash
 git clone https://github.com/wersosn/leetcode-problems.git
