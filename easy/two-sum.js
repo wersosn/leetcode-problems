@@ -1,4 +1,4 @@
-//Solution: using array for storing seen numbers
+//Solution: Using array for storing seen numbers
 //Time complexity: O(n^2)
 var twoSum = function (nums, target) {
     const seen = [];
