@@ -37,7 +37,7 @@ _Regular problems:_
 _Study plans:_
 - [30 days of JavaScript - medium](/medium/30-days-of-js-medium)
 - [SQL 50 - medium](/medium/sql-50-medium)
-- [75 Leetcode - medium](/medium/75-medium)
+- [Leetcode 75 - medium](/medium/75-medium)
 
 ### Hard
 - To be added
