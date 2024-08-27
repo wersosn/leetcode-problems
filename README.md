@@ -11,7 +11,7 @@ However, in cases where I use a solution or explanation of a problem written by 
 
 ## Languages used
 #### Programming languages:
-- JavaScript
+- JavaScript + TypeScript
 - C#
 
 #### Query languages:
@@ -23,7 +23,7 @@ Below you will find a list of solved problems, grouped by difficulty:
 ### Easy
 _Regular problems:_
 - Two Sum [(JavaScript version)](/easy/two-sum.js), [(C# version)](/easy/two-sum.cs)
-- Palindrome number [(JavaScript version)](/easy/palindrome-number.js)
+- Palindrome number [(JavaScript version)](/easy/palindrome-number.js), [(TypeScript version)](/easy/palindrome-number.ts)
 
 _Study plans:_
 - [30 days of JavaScript - easy](/easy/30-days-of-javascript)
