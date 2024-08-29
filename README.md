@@ -40,7 +40,8 @@ _Study plans:_
 - [Leetcode 75 - medium](/medium/75-medium)
 
 ### Hard
-- To be added
+_Study plans:_
+- [SQL 50 - hard](/hard/sql-50-hard)
 
 ## How to use
 To run these solutions, clone this repository:
