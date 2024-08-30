@@ -24,6 +24,7 @@ Below you will find a list of solved problems, grouped by difficulty:
 _Regular problems:_
 - Two Sum [(JavaScript version)](/easy/two-sum.js), [(C# version)](/easy/two-sum.cs)
 - Palindrome number [(JavaScript version)](/easy/palindrome-number.js), [(TypeScript version)](/easy/palindrome-number.ts)
+- Score of a string [(JavaScript version)](/easy/score-of-a-string.js)
 
 _Study plans:_
 - [30 days of JavaScript - easy](/easy/30-days-of-javascript)
