@@ -51,7 +51,7 @@ git clone https://github.com/wersosn/leetcode-problems.git
 ```
 
 ## Contributions
-This repository is mainly for personal use, however suggestions and contributions are welcome.
+This repository is mainly for personal use, however suggestions are welcome.
 
 ## Links
 LeetCode: [wersosn](https://leetcode.com/u/hYSsc9PjMo/)
