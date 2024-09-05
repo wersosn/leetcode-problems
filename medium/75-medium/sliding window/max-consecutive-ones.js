@@ -1,7 +1,8 @@
 //Max Consecutive Ones III
 //Solution: Sliding window algorithm -  two pointers are used to indicate a window of the array
 //Time-complexity: O(n)
-//I used here the explanation of the problem from user ankitk742 and nylime
+//I used here the explanation of the problem from user ankitk742 (https://leetcode.com/problems/max-consecutive-ones-iii/description/comments/2030040)
+//and nylime (https://leetcode.com/problems/max-consecutive-ones-iii/description/comments/1695661)
 var longestOnes = function (nums, k) {
     let start = 0, end = 0, counter = 0, maxLength = 0;
     for (end = 0; end < nums.length; end++) { //iterate through the array using 'end' as the right pointer
