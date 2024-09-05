@@ -1,7 +1,7 @@
 //Asteroid Collision
 //Solution: Use a stack-based approach to ensure collisions are processed correctly and in the order they occur
 //Time-complexity: O(n)
-//I used here the explanation of the problem from user niits
+//I used here the explanation of the problem from user niits (https://leetcode.com/problems/asteroid-collision/solutions/5142202/video-simple-solution)
 var asteroidCollision = function (asteroids) {
     let result = [];
     for (let i = 0; i < asteroids.length; i++) { //iterate through each asteroid in the array

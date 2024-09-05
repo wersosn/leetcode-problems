@@ -1,7 +1,7 @@
 //String Compression
 //Solution: Two pointers to iterate through the input array
 //Time complexity: O(n)
-//I used here solution by user EmraanHash
+//I used here solution by user EmraanHash (https://leetcode.com/problems/string-compression/solutions/3246103/very-easy-100-easiest-logic-ever-fully-explained-step-by-step-c-javascript-java)
 var compress = function(chars) {
     let length = 0;
     let i = 0;
