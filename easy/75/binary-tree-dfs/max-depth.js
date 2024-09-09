@@ -21,9 +21,9 @@ var maxDepth = function (root) {
 
 //Case 1:
 root = [3,9,20,null,null,15,7];
-maxDepth(root);
+maxDepth(root); //3
 
 //Case 2:
 root2 = [1,null,2];
-maxDepth(root2);
+maxDepth(root2); //2
 
