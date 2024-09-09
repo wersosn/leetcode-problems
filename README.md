@@ -25,6 +25,7 @@ _Regular problems:_
 - Two Sum [(JavaScript version)](/easy/two-sum.js), [(C# version)](/easy/two-sum.cs)
 - Palindrome number [(JavaScript version)](/easy/palindrome-number.js), [(TypeScript version)](/easy/palindrome-number.ts)
 - Score of a string [(JavaScript version)](/easy/score-of-a-string.js)
+- Search insert position [(JavaScript version)](/easy/search-insert-position.js)
 
 _Study plans:_
 - [30 days of JavaScript - easy](/easy/30-days-of-javascript)
