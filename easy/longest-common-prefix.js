@@ -23,3 +23,4 @@ console.log(`Result for case 1: "${longestCommonPrefix(strs)}"`);
 //Case 2:
 strs = ["dog", "racecar", "car"];
 console.log(`Result for case 2: "${longestCommonPrefix(strs)}"`);
+
