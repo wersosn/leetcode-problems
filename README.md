@@ -27,6 +27,7 @@ _Regular problems:_
 - Score of a string [(JavaScript version)](/easy/score-of-a-string.js)
 - Search insert position [(JavaScript version)](/easy/search-insert-position.js)
 - Longest common prefix [(JavaScript version)](/easy/longest-common-prefix.js)
+- Roman to integer [(JavaScript version)](/easy/roman-to-integer.js)
 
 _Study plans:_
 - [30 days of JavaScript - easy](/easy/30-days-of-javascript)
