@@ -44,6 +44,9 @@ _Study plans:_
 - [Leetcode 75 - medium](/medium/75-medium)
 
 ### Hard
+_Regular problems:_
+- Median of two sorted arrays [(JavaScript version)](/hard/median-of-two-sorted-arrays.js)
+  
 _Study plans:_
 - [SQL 50 - hard](/hard/sql-50-hard)
 
