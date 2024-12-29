@@ -1,6 +1,6 @@
 ## Leetcode solutions - general info
 This repository contains my personal solutions for Leetcode problems. 
-However, in cases where I use a solution or explanation of a problem written by another user, this is indicated in a comment in the file.
+However, in cases where I use a solution or explanation of a problem written by another user, it is indicated in a comment in the file.
 
 ## Table of Contents
 - [Languages used](#languages-used)
