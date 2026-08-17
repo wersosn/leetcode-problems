@@ -1,5 +1,5 @@
 // Pattern: Hashmap for tracking "what I've seen so far"
-// When to use: When you need to find two numbers in an array that add up to a specific target.
+// When to use: for each element, I'm looking for something related to another element
 // Complexity: O(n) time, O(n) space.
 
 public class Solution {
@@ -25,7 +25,7 @@ class Program
     public static void Main()
     {
         Solution solution = new Solution();
-        
+
         //Case 1:
         int[] nums1 = { 2, 7, 11, 15 };
         int target1 = 9;
