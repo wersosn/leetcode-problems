@@ -1,4 +1,4 @@
-// Pattern: Hashmap for tracking "what I've seen so far"
+// Pattern: Dictionary for tracking "what I've seen so far"
 // When to use: When you need to find two numbers in an array that add up to a specific target.
 // Complexity: O(n) time, O(n) space.
 
