@@ -1,6 +1,6 @@
 // Pattern: Dictionary for tracking "what I've seen so far"
 // When to use: When you need to group strings that are anagrams of each other (i.e., they contain the same characters in a different order).
-// Complexity: O(n * k log k) time, O(n * k) space, where n is the number of strings and k is the maximum length of a string.
+// Complexity: O(n*klogk) time, O(n*k) space, where n is the number of strings and k is the maximum length of a string.
 
 public class Solution {
     public IList<IList<string>> GroupAnagrams(string[] strs) {
