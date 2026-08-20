@@ -30,15 +30,15 @@ class Program
         Solution solution = new Solution();
         
         //Case 1:
-        bool result1 = solution.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
+        var result1 = solution.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
         Console.WriteLine("Result for case 1: " + result1);
 
         //Case 2:
-        bool result2 = solution.GroupAnagrams(new string[] { "abc", "bca", "cab", "xyz", "zyx" });
+        var result2 = solution.GroupAnagrams(new string[] { "abc", "bca", "cab", "xyz", "zyx" });
         Console.WriteLine("Result for case 2: " + result2);
 
         //Case 3:
-        bool result3 = solution.GroupAnagrams(new string[] { " " });
+        var result3 = solution.GroupAnagrams(new string[] { " " });
         Console.WriteLine("Result for case 3: " + result3);
     }
 }

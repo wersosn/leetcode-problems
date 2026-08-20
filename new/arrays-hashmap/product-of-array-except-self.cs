@@ -33,11 +33,11 @@ class Program
         Solution solution = new Solution();
         
         //Case 1:
-        bool result1 = solution.ProductExceptSelf([1, 2, 3, 4]);
+        var result1 = solution.ProductExceptSelf([1, 2, 3, 4]);
         Console.WriteLine("Result for case 1: " + result1);
 
         //Case 2:
-        bool result2 = solution.ProductExceptSelf([-1, 1, 0, -3, 3]);
+        var result2 = solution.ProductExceptSelf([-1, 1, 0, -3, 3]);
         Console.WriteLine("Result for case 2: " + result2);
     }
 }

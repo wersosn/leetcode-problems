@@ -41,15 +41,15 @@ class Program
         Solution solution = new Solution();
         
         //Case 1:
-        bool result1 = solution.ValidAnagram("anagram", "nagaram");
+        var result1 = solution.ValidAnagram("anagram", "nagaram");
         Console.WriteLine("Result for case 1: " + result1);
 
         //Case 2:
-        bool result2 = solution.ValidAnagram("rat", "car");
+        var result2 = solution.ValidAnagram("rat", "car");
         Console.WriteLine("Result for case 2: " + result2);
 
         //Case 3:
-        bool result3 = solution.ValidAnagram("listen", "silent");
+        var result3 = solution.ValidAnagram("listen", "silent");
         Console.WriteLine("Result for case 3: " + result3);
     }
 }

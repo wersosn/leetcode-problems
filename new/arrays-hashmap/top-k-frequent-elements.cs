@@ -29,15 +29,15 @@ class Program
         Solution solution = new Solution();
         
         //Case 1:
-        bool result1 = solution.TopKFrequent([1, 1, 1, 2, 2, 3], 2);
+        var result1 = solution.TopKFrequent([1, 1, 1, 2, 2, 3], 2);
         Console.WriteLine("Result for case 1: " + result1);
 
         //Case 2:
-        bool result2 = solution.TopKFrequent([1], 1);
+        var result2 = solution.TopKFrequent([1], 1);
         Console.WriteLine("Result for case 2: " + result2);
 
         //Case 3:
-        bool result3 = solution.TopKFrequent([1, 2, 1, 2, 1, 2, 3, 1, 3, 2], 2);
+        var result3 = solution.TopKFrequent([1, 2, 1, 2, 1, 2, 3, 1, 3, 2], 2);
         Console.WriteLine("Result for case 3: " + result3);
     }
 }

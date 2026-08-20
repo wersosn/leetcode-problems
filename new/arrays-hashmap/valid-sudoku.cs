@@ -52,7 +52,7 @@ class Program
                         ,[".","6",".",".",".",".","2","8","."]
                         ,[".",".",".","4","1","9",".",".","5"]
                         ,[".",".",".",".","8",".",".","7","9"]];
-        bool result1 = solution.IsValidSudoku(board);
+        var result1 = solution.IsValidSudoku(board);
         Console.WriteLine("Result for case 1: " + result1);
 
         //Case 2:
@@ -66,7 +66,7 @@ class Program
                         ,[".","6",".",".",".",".","2","8","."]
                         ,[".",".",".","4","1","9",".",".","5"]
                         ,[".",".",".",".","8",".",".","7","9"]];
-        bool result2 = solution.IsValidSudoku(board2);
+        var result2 = solution.IsValidSudoku(board2);
         Console.WriteLine("Result for case 2: " + result2);
     }
 }
