@@ -65,7 +65,7 @@ class Program
         var result2 = solution.LengthOfLongestSubstring("bbbbb");
         Console.WriteLine("Result for case 2: " + result2);
 
-        //Case 23:
+        //Case 3:
         var result3 = solution.LengthOfLongestSubstring("pwwkew");
         Console.WriteLine("Result for case 3: " + result3);
     }
