@@ -39,7 +39,7 @@ public int[] TwoSum(int[] nums, int target) {
 - [x] Arrays & Hashmap
 - [x] Two Pointers
 - [x] Sliding Window
-- [ ] Stack
+- [x] Stack
 - [ ] Binary Search
 - [ ] Linked List
 - [ ] Trees
