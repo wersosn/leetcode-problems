@@ -40,7 +40,7 @@ public int[] TwoSum(int[] nums, int target) {
 - [x] Two Pointers
 - [x] Sliding Window
 - [x] Stack
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Linked List
 - [ ] Trees
 - [ ] Graphs (BFS/DFS)
