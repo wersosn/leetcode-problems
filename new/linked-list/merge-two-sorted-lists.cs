@@ -1,6 +1,6 @@
 // Pattern: Merge Two Sorted Lists
 // When to use: Merging two sorted linked lists into one sorted linked list
-// Complexity: O(n) time, O(1) space
+// Complexity: O(n + m) time, O(1) space, where n and m are the lengths of the two lists
 
 /**
  * Definition for singly-linked list.
