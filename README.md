@@ -30,8 +30,23 @@ Example of the comment style used at the top of each new solution file:
 // When to use: for each element, I'm looking for something related to another element
 // Complexity: O(n) time, O(n) space
 
+// Solution:
 public int[] TwoSum(int[] nums, int target) {
-    // ...
+    // ... 
+}
+
+// Cases:
+class Program
+{
+    public static void Main()
+    {
+        Solution solution = new Solution();
+        
+        // Case 1:
+        var result1 = solution.TwoSum(nums, target);
+        Console.WriteLine("Result for case 1: " + result1);
+        // ...
+    }
 }
 ```
 
