@@ -56,7 +56,7 @@ class Program
 - [x] Sliding Window
 - [x] Stack
 - [x] Binary Search
-- [ ] Linked List
+- [x] Linked List
 - [ ] Trees
 - [ ] Graphs (BFS/DFS)
 - [ ] Backtracking
