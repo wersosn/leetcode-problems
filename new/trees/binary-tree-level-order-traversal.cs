@@ -1,6 +1,6 @@
 // Pattern: Breadth-First Search (BFS) / Level-order traversal
 // When to use: When you need to visit nodes level by level, or process a tree in layers from top to bottom.
-// Complexity: Time O(n), Space O(w) where w is the maximum width of the tree (worst case O(n)).
+// Complexity: O(n) time, O(w) space, where w is the maximum width of the tree (worst case O(n)).
 
 /**
  * Definition for a binary tree node.
