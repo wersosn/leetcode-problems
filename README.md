@@ -57,7 +57,7 @@ class Program
 - [x] Stack
 - [x] Binary Search
 - [x] Linked List
-- [ ] Trees
+- [x] Trees
 - [ ] Graphs (BFS/DFS)
 - [ ] Backtracking
 - [ ] Dynamic Programming
