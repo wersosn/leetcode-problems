@@ -1,6 +1,6 @@
-// Pattern: Graph traversal (iterative DFS) on a 2D grid.
-// When to use: Use DFS/BFS to explore all connected land cells and count each island once.
-// Complexity: O(rows * columns) time and O(rows * columns) space in the worst case.
+// Pattern: Graph traversal (iterative DFS) on a 2D grid
+// When to use: Use DFS/BFS to explore all connected land cells and count each island once
+// Complexity: O(rows * columns) time and O(rows * columns) space in the worst case
 
 public class Solution {
     public int NumIslands(char[][] grid) {
