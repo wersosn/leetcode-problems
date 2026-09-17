@@ -4,9 +4,6 @@ This repository contains my solutions to LeetCode problems, covering two distinc
 - **[`old/`](/old)** - solutions from 2024, written mostly in JavaScript, organized by difficulty and study plan. Kept as an archive of earlier progress.
 - **[`new/`](/new)** - current solutions, written in C#, organized **by algorithmic pattern** rather than difficulty. The goal here isn't just solving individual problems, but building a personal reference of recognizable patterns that transfer to new, unseen problems.
 
-## Why the restructure
-The earlier approach (organized by difficulty and pre-made study plans) worked well for working through structured problem sets. The current approach has a different goal: recognizing *which pattern applies* to a given problem, not just recalling a specific solution. Grouping by pattern makes it easier to review one concept at a time and see how it applies across multiple problems.
-
 ## `new/` - Pattern-based practice (2026, C#)
 
 Each folder corresponds to one algorithmic pattern. Every solution file includes a short comment explaining when the pattern applies and its time/space complexity, so the folder works as a personal pattern reference, not just a solution dump.
