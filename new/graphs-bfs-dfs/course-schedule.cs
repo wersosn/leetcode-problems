@@ -1,6 +1,6 @@
-// Pattern: Topological sort using Kahn's algorithm (BFS with indegrees).
-// When to use: To determine whether all tasks or courses with dependencies can be completed.
-// Complexity: O(V + E) time and O(V + E) space, where V is the number of courses and E is the number of prerequisites.
+// Pattern: Topological sort using Kahn's algorithm (BFS with indegrees)
+// When to use: To determine whether all tasks or courses with dependencies can be completed
+// Complexity: O(V + E) time and O(V + E) space, where V is the number of courses and E is the number of prerequisites
 
 public class Solution {
     public bool CanFinish(int numCourses, int[][] prerequisites) {
