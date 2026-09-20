@@ -47,7 +47,7 @@ class Program
 }
 ```
 
-## Progress
+## Progress in learning the basics of the most popular topics
 - [x] Arrays & Hashmap
 - [x] Two Pointers
 - [x] Sliding Window
@@ -55,7 +55,7 @@ class Program
 - [x] Binary Search
 - [x] Linked List
 - [x] Trees
-- [ ] Graphs (BFS/DFS)
+- [x] Graphs (BFS/DFS)
 - [ ] Backtracking
 - [ ] Dynamic Programming
 
