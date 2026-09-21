@@ -1,5 +1,5 @@
 // Pattern: Backtracking
-// When to use: Generate all possible subsets (the power set) of a collection
+// When to use: To generate all subsets while avoiding duplicate subsets when the input contains duplicates
 // Complexity: O(n * 2^n) time and O(n) auxiliary space, excluding the output
 
 public class Solution {
