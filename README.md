@@ -56,7 +56,7 @@ class Program
 - [x] Linked List
 - [x] Trees
 - [x] Graphs (BFS/DFS)
-- [ ] Backtracking
+- [x] Backtracking
 - [ ] Dynamic Programming
 
 ## `old/` - Archive (2024)
