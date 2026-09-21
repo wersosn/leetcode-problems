@@ -1,6 +1,6 @@
 // Pattern: Backtracking (choose an unused element, recurse, then undo the choice)
 // When to use: When generating all possible arrangements or combinations of choices
-// Complexity: O(n · n!) time with Contains; O(n) auxiliary space, excluding output
+// Complexity: O(n * n!) time with Contains; O(n) auxiliary space, excluding output
 
 public class Solution {
     public IList<IList<int>> Permute(int[] nums) {
