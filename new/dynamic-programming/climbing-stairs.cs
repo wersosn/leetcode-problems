@@ -1,5 +1,5 @@
 // Pattern: Dynamic programming
-// When to use: When a problem can be solved by combining solutions to smaller, overlapping subproblems.
+// When to use: When a problem can be solved by combining solutions to smaller, overlapping subproblems
 // Complexity: O(n) time and O(1) space
 
 public class Solution {
