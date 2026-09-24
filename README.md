@@ -20,6 +20,7 @@ Each folder corresponds to one algorithmic pattern. Every solution file includes
 | [`graphs-bfs-dfs`](/new/graphs-bfs-dfs) | Traversing graphs, detecting cycles, connectivity | Number of Islands, Course Schedule |
 | [`backtracking`](/new/backtracking) | Exploring choices with the ability to undo them | Subsets, Permutations |
 | [`dynamic-programming`](/new/dynamic-programming) | Breaking a problem into overlapping subproblems | Climbing Stairs, Coin Change |
+| [`priority-queue`](/new/priority-queue) | Efficiently retrieving the highest- or lowest-priority element | Relative Ranks, Kth Largest Element in an Array |
 
 Example of the comment style used at the top of each new solution file:
 ```csharp
@@ -57,7 +58,8 @@ class Program
 - [x] Trees
 - [x] Graphs (BFS/DFS)
 - [x] Backtracking
-- [ ] Dynamic Programming
+- [x] Dynamic Programming
+- [ ] Priority Queue
 
 ## `old/` - Archive (2024)
 Solutions mostly in JavaScript/TypeScript, plus SQL, organized by difficulty and original LeetCode study plans.
