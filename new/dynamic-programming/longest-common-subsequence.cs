@@ -1,6 +1,6 @@
 // Pattern: Dynamic programming
 // When to use: When finding the longest sequence that appears in both strings in the same order, without requiring the characters to be contiguous
-// Complexity: O(m * n) time and O(m * n) space
+// Complexity: O(m * n) time and O(m * n) space, where m and n are string lengths
 
 public class Solution {
     public int LongestCommonSubsequence(string text1, string text2) {
