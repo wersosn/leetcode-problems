@@ -6,7 +6,6 @@ public class Twitter {
     Dictionary<int, List<int>> tweets = new Dictionary<int, List<int>>();
     Dictionary<int, int> tweetTime = new Dictionary<int, int>();
     Dictionary<int, HashSet<int>> followers = new Dictionary<int, HashSet<int>>();
-    PriorityQueue<int, int> queue = new PriorityQueue<int, int>();
     int timestamp = 0;
 
     public Twitter() {
