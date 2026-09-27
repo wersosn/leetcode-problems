@@ -1,6 +1,6 @@
 // Pattern: Priority queue (min-heap)
-// When to use:
-// Complexity:
+// When to use: To greedily rearrange characters so that no two adjacent characters are equal
+// Complexity: O(n log k) time and O(k) space, where n is the string length and k is the number of distinct characters
 
 public class Solution {
     public string ReorganizeString(string s) {
