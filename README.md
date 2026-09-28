@@ -59,7 +59,7 @@ class Program
 - [x] Graphs (BFS/DFS)
 - [x] Backtracking
 - [x] Dynamic Programming
-- [ ] Priority Queue
+- [x] Priority Queue
 
 ## `old/` - Archive (2024)
 Solutions mostly in JavaScript/TypeScript, plus SQL, organized by difficulty and original LeetCode study plans.
