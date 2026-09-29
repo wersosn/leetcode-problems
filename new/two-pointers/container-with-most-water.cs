@@ -1,5 +1,5 @@
 // Pattern: Two pointers
-// When to use: When finding the maximum area between two boundaries in a linear array.
+// When to use: When finding the maximum area between two boundaries in a linear array
 // Complexity: O(n) time, O(1) space
 
 public class Solution {

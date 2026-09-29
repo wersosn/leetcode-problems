@@ -1,6 +1,6 @@
-// Pattern: Two pointers with left/right maximum heights.
-// When to use: When processing a sequence from both ends while tracking boundary values.
-// Complexity: O(n) time and O(1) extra space.
+// Pattern: Two pointers with left/right maximum heights
+// When to use: When processing a sequence from both ends while tracking boundary values
+// Complexity: O(n) time and O(1) extra space
 
 public class Solution {
     public int Trap(int[] height) {

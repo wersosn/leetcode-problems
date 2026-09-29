@@ -1,6 +1,6 @@
-// Pattern: Sort the array, fix one element, then use two pointers to find the remaining pair.
-// When to use: Finding unique triplets (or pairs) that satisfy a target sum in an array.
-// Complexity: O(n²) time and O(1) auxiliary space, excluding the space used by the result.
+// Pattern: Sort the array, fix one element, then use two pointers to find the remaining pair
+// When to use: Finding unique triplets (or pairs) that satisfy a target sum in an array
+// Complexity: O(n²) time and O(1) auxiliary space, excluding the space used by the result
 
 public class Solution {
     public IList<IList<int>> ThreeSum(int[] nums) {

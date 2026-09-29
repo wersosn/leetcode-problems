@@ -1,5 +1,5 @@
 // Pattern: Two pointers
-// When to use: Use on a sorted array when searching for a pair with a target sum.
+// When to use: Use on a sorted array when searching for a pair with a target sum
 // Complexity: O(n) time and O(1) space
 
 public class Solution {
