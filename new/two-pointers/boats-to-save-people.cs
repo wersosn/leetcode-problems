@@ -1,4 +1,4 @@
-// Pattern: Two pointers with greedy pairing after sorting.
+// Pattern: Two pointers with greedy pairing after sorting
 // When to use: When each boat can carry at most two people and you need to minimize boats
 // Complexity: O(n log n) time for sorting and O(1) extra space (excluding the sort implementation)
 
