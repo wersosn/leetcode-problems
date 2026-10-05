@@ -1,6 +1,6 @@
 // Pattern: Sliding Window
 // When to use: Find the longest contiguous subarray containing at most k zeros (or ones) by flipping them
-// Complexity:] O(n) time and O(1) space (the window stores at most k zeros)
+// Complexity: O(n) time and O(1) space (the window stores at most k zeros)
 
 public class Solution {
     public int LongestOnes(int[] nums, int k) {
