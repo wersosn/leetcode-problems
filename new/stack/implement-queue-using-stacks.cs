@@ -1,6 +1,6 @@
 // Pattern: Stack
 // When to use: Implement a queue using two stacks
-// Complexity: O(1) for all operations (Push, Pop, Top, GetMin)
+// Complexity: O(1) time for all operations (Push, Pop, Top, GetMin), O(n) space in the worst case
 
 public class MyQueue
 {
